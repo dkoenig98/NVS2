@@ -74,7 +74,7 @@ Autor: Dominic König
 
 ---
 #### 10. Skizzieren Sie den TCP 3-way handshake.
-<img src="image.png" alt="drawing" width="350"/>
+<img src="image.png" alt="drawing" width="600"/>
 
 ---
 #### 11. Erklären Sie die gebräuchlichsten TCP-Optionen? Was ist PAWS?
@@ -117,7 +117,7 @@ Autor: Dominic König
 ---
 
 #### 17. Skizzieren Sie den TCP Header und erklären Sie die Felder.
-<img src="image-1.png" alt="drawing" width="350"/>
+<img src="image-1.png" alt="drawing" width="600"/>
 
 ---
 #### 18. Was sind CUBIC und BBR und welches Problem gibt es beim Mix beider?
@@ -140,7 +140,7 @@ Autor: Dominic König
   - **Checksum (2 Byte):** Zur Fehlerüberprüfung des Headers und der Daten.
 - **Protokolle auf UDP-Basis:** DNS (schnelle Anfragen), SNMP (einfache Management-Operationen), DHCP (Effizienz und einfache Implementierung), RTP (Echtzeit-Datenübertragung), VoIP, Online-Spiele (geringe Latenz).
 
-<img src="image-2.png" alt="drawing" width="350"/>
+<img src="image-2.png" alt="drawing" width="600"/>
 
 ---
 
@@ -383,7 +383,7 @@ Anwendungen:** Webseiten-Laden, Streaming-Dienste, Cloud-Dienste, wo schnelle Ei
   - **Diameter-Protokoll:** Für Authentifizierung, Autorisierung und Abrechnung.
   - **GTP (GPRS Tunneling Protocol):** Für die Tunnelung von Daten durch das Mobilfunknetz.
 
-<img src="image-3.png" alt="drawing" width="350"/>
+<img src="image-3.png" alt="drawing" width="600"/>
 
 ---
 
@@ -424,7 +424,7 @@ Anwendungen:** Webseiten-Laden, Streaming-Dienste, Cloud-Dienste, wo schnelle Ei
   - **BYE:** Beenden des Anrufs.
   - **OK:** Bestätigung des Anrufendes.
 
-<img src="image-4.png" alt="drawing" width="350"/>
+<img src="image-4.png" alt="drawing" width="600"/>
 
 
 ---
@@ -635,7 +635,7 @@ Connection: keep-alive
   - **Rückgabe:** Der Proxy sendet die Antwort an den ursprünglichen Client zurück.
   - **Zwischenspeicherung (optional):** Der Proxy kann Antworten zwischenspeichern, um zukünftige Anfragen schneller zu beantworten.
 
-<img src="image-5.png" alt="drawing" width="350"/>
+<img src="image-5.png" alt="drawing" width="600"/>
 
 
 ---
