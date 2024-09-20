@@ -74,7 +74,7 @@ Autor: Dominic König
 
 ---
 #### 10. Skizzieren Sie den TCP 3-way handshake.
-<img src="image.png" alt="drawing" width="600"/>
+<img src="tcp-3-way-handshake-ipcisco.jpg" alt="drawing" width="600"/>
 
 ---
 #### 11. Erklären Sie die gebräuchlichsten TCP-Optionen? Was ist PAWS?
