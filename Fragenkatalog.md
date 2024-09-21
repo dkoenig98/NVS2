@@ -205,9 +205,11 @@ Autor: Dominic König
 #### 27. Charakterisieren Sie QUIC. Welche Anwendungen könnten es verwenden?
 - **QUIC (Quick UDP Internet Connections):**
   - **Beschreibung:** Protokoll über UDP, das geringe Latenz, Multiplexing und verbesserte Sicherheit bietet.
-  - **
-
-Anwendungen:** Webseiten-Laden, Streaming-Dienste, Cloud-Dienste, wo schnelle Einrichtung und geringe Verzögerung wichtig sind.
+- **Anwendungen:**  
+  - **Webbrowser (z. B. Chrome)**: Für schnellere Ladezeiten und geringere Latenz.
+  - **Videostreaming-Dienste (z. B. YouTube, Netflix)**: Für eine flüssigere Wiedergabe bei schlechter Internetverbindung.
+  - **Online-Spiele**: Für geringere Latenz und stabilere Verbindungen.
+  - **VoIP und Videokonferenzen**: Für verbesserte Audio- und Videoqualität in Echtzeit.
 
 ---
 
