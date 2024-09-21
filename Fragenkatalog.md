@@ -119,6 +119,17 @@ Autor: Dominic König
 #### 17. Skizzieren Sie den TCP Header und erklären Sie die Felder.
 <img src="image-1.png" alt="drawing" width="600"/>
 
+- **Source Port (Quellport)**: Die Portnummer des Senders.
+- **Destination Port (Zielport)**: Die Portnummer des Empfängers.
+- **Sequence Number (Sequenznummer)**: Gibt die Reihenfolge der gesendeten Bytes an, um eine korrekte Zusammensetzung beim Empfänger zu gewährleisten.
+- **Acknowledgment Number (Bestätigungsnummer)**: Die nächste erwartete Sequenznummer vom Empfänger.
+- **TCP Header Length (TCP-Header-Länge)**: Gibt die Länge des TCP-Headers in 32-Bit-Worten an.
+- **Flags**: Eine Gruppe von Kontrollbits zur Steuerung der Verbindung (z. B. SYN, ACK, FIN).
+- **Window Size (Fenstergröße)**: Gibt an, wie viele Bytes der Empfänger ohne Bestätigung empfangen kann.
+- **Checksum (Prüfsumme)**: Dient zur Fehlererkennung für den Header und die Nutzdaten.
+- **Urgent Pointer (Dringlichkeitszeiger)**: Markiert die Position dringender Daten im Datenstrom.
+- **Options (Optionen)**: Zusätzliche optionale Felder, die für erweiterte Funktionen genutzt werden können.
+- **Data (Daten)**: Der eigentliche Nutzdateninhalt des Segments, optional je nach Anwendung.
 ---
 #### 18. Was sind CUBIC und BBR und welches Problem gibt es beim Mix beider?
 - **CUBIC und BBR:**
