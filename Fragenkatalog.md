@@ -82,7 +82,7 @@ Autor: Dominic König
   - **Maximum Segment Size (MSS):** Bestimmt die maximale Größe der übertragenen Segmente.
   - **Window Scale:** Erlaubt größere Fenstergrößen für Flusskontrolle.
   - **Selective Acknowledgement (SACK):** Ermöglicht Bestätigung einzelner Segmente.
-  - **Timestamps:** Zur Vermeidung von Sequenznummernüberläufen und für Round-Trip-Time-Messungen.
+  - **Timestamps:** Wann wurden die Pakete versendet - um das nachvollziehen zu können.
 - **PAWS (Protection Against Wrapped Sequence numbers):** Verhindert das falsche Akzeptieren von veralteten Segmenten, die wegen der Wiederverwendung von Sequenznummern auftreten könnten.
 
 ---
