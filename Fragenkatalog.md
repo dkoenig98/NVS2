@@ -396,7 +396,7 @@ Autor: Dominic König
   - **Diameter-Protokoll:** Für Authentifizierung, Autorisierung und Abrechnung.
   - **GTP (GPRS Tunneling Protocol):** Für die Tunnelung von Daten durch das Mobilfunknetz.
 
-<img src="image-3.png" alt="drawing" width="600"/>
+<img src="5d020ee3616c2641fa334605_volte-diagram.jpg" alt="drawing" width="600"/>
 
 ---
 
