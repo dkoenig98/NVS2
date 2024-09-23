@@ -322,8 +322,8 @@ Autor: Dominic König
 - **DNS-Alternativen:**
   - **Multicast DNS (mDNS):** Erlaubt die Auflösung von Hostnamen in lokalen Netzwerken ohne zentralen DNS-Server.
   - **Hostdatei:** Manuelle Zuordnung von IP-Adressen zu Hostnamen in einer lokalen Datei.
-  - **Directory Services:** Wie LDAP, zur Organisation und Bereitstellung von Namensinformationen.
-  - **Blockchain-basierte DNS-Systeme:** Dezentrale und sichere DNS-Systeme, die auf Blockchain-Technologie basieren.
+  - **LISP:** Locator/ID Separation Protocol
+  - **ENS:** Ethereum Name Service
 
 ---
 
