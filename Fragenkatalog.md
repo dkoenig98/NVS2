@@ -464,11 +464,11 @@ Autor: Dominic König
 
 #### 54. Entwerfen sie einen fünfzeiligen gültigen HTTP 1.1 Request.
 ```
-GET /index.html HTTP/1.1
+GET / HTTP/1.1
 Host: www.example.com
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-Accept: text/html
-Connection: keep-alive
+Connection: close
+User-Agent: SimpleClient/1.0
+Accept: */*
 ```
 
 ---
