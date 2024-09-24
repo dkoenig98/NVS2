@@ -284,8 +284,7 @@ Autor: Dominic König
 
 #### 36. Warum gibt es MX und NS in DNS resource records?
 - **MX (Mail Exchange) Records:** Wichtig für das E-Mail-Routing. Sie bestimmen, welcher Server E-Mails für eine Domain empfängt.
-- **NS (Name Server) Records:** Notwendig, um anzugeben, welche Nameserver für eine Domain autoritativ sind. Sie ermöglichen die Delegation der Domain-Namensauflösung an spezifische Server.
-
+- **NS (Name Server) Records:** Er definiert, welche Nameserver für diese Zone offiziell zuständig sind, oder. er verkettet Zonen zu einem Zonen-Baum.
 ---
 
 #### 37. Wie funktioniert die DNS-Namensauflösung? Was tun name server und resolver?
