@@ -780,3 +780,36 @@ Accept: */*
   - Förderung von Recycling und nachhaltigen Praktiken im IT-Bereich.
 
 ---
+
+**85. Formulieren Sie einen einfachen SOAP/HTTP request.**
+
+```xml
+POST /service HTTP/1.1
+Host: www.example.com
+Content-Type: text/xml; charset=utf-8
+
+<?xml version="1.0"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+      <exampleRequest>
+         <param1>Value1</param1>
+      </exampleRequest>
+   </soap:Body>
+</soap:Envelope>
+```
+
+**86. Formulieren Sie einen einfachen SOAP/HTTP response**
+
+```xml
+HTTP/1.1 200 OK
+Content-Type: text/xml; charset=utf-8
+
+<?xml version="1.0"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+      <exampleResponse>
+         <returnParam>ResponseValue</returnParam>
+      </exampleResponse>
+   </soap:Body>
+</soap:Envelope>
+```
